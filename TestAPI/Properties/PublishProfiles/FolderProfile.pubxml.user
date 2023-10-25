@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Publish\KisokAPI\Linux64</_PublishTargetUrl>
+    <History>True|2023-10-15T10:14:39.0307283Z;True|2023-10-11T17:44:33.2903203+06:00;False|2023-10-11T17:41:17.1931253+06:00;False|2023-10-11T17:40:01.7358639+06:00;True|2023-10-10T23:15:36.1968218+06:00;True|2023-10-07T23:05:02.2574329+06:00;True|2023-10-07T22:20:55.3152895+06:00;True|2023-10-07T20:57:03.5272783+06:00;True|2023-10-06T21:17:33.8339573+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,12 @@
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\bin\Debug\net6.0\TestAPI.Core.deps.json
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\bin\Debug\net6.0\TestAPI.Core.dll
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\bin\Debug\net6.0\TestAPI.Core.pdb
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\obj\Debug\net6.0\TestAPI.Core.csproj.AssemblyReference.cache
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\obj\Debug\net6.0\TestAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\obj\Debug\net6.0\TestAPI.Core.AssemblyInfoInputs.cache
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\obj\Debug\net6.0\TestAPI.Core.AssemblyInfo.cs
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\obj\Debug\net6.0\TestAPI.Core.csproj.CoreCompileInputs.cache
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\obj\Debug\net6.0\TestAPI.Core.dll
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\obj\Debug\net6.0\refint\TestAPI.Core.dll
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\obj\Debug\net6.0\TestAPI.Core.pdb
+D:\Tutorial\TutorialTesting\netAPI\TestAPI\TestAPI.Service\obj\Debug\net6.0\ref\TestAPI.Core.dll
